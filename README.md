@@ -1,4 +1,4 @@
-# FakeNewsAnalysis
+# Fake-News-Analysis-using-Pythons
 Fake News is One of the biggest issue that we face and is quite challenging to counter act. This program tends to solve this issue in a quicker and precise manner.
 I've used a news dataset, 
 The Dataset having dimensions of (6335, 4)(R*C)
